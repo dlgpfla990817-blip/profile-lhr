@@ -1,7 +1,6 @@
 @media (max-width:768px){
     .hero{
         height: 100vh;
-         background: url(../img/herobanner-mo.jpg) no-repeat 50% 50% / cover;
     }
     .hero h1{
         font-size: 40px;

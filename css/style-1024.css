@@ -1,7 +1,6 @@
 @media (max-width:1024px){
     .hero{
     height:800px;
-    background: url(../img/herobanner-tab.jpg) no-repeat 50% 50% / cover;
 }
 .about-title{
     font-size:3.8rem;    
