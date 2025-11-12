@@ -36,10 +36,11 @@
     display: flex;
     gap: 1rem;
 }
-.about-txt{
+.about-txt {
     width: 50%;
     padding-right: 7.75rem;
     box-sizing: border-box;
+    text-align: left;
 }
 .about-img{
     width: 50%;

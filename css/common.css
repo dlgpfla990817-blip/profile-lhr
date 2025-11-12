@@ -40,7 +40,10 @@ html{
 }
 .common-frame{
     width: auto;
-    margin: 0.3rem;
+    margin: 3rem;
+}
+.zen{
+     font-family: 'zen';
 }
 @media (max-width:1024px){
     html{
@@ -48,7 +51,7 @@ html{
     }
     .common-frame{
     width: auto;
-    margin: 0.2rem;
+    margin: 2rem;
 }
 }
 @media (max-width:768px){
@@ -57,6 +60,6 @@ html{
     }
     .common-frame{
     width: auto;
-    margin: 0.1rem;
+    margin: 1rem;
 }
 }
