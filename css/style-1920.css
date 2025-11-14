@@ -97,14 +97,15 @@
     height:100%;
     object-fit: cover;
 }
-.aboutme2{
-    margin-top: 10rem;
-    background-color: black;
-    color: #fff;
+.aboutme2 {
+    margin-top: 6rem;
+    /* background-color: black; */
+    /* color: #fff; */
 }
-.aboutme2 .common-frame{
+.aboutme2 .common-frame {
     display: flex;
     gap: 1rem;
+    padding: 6rem 0;
 }
 .aboutme2-img{
     width: 50%;
@@ -148,7 +149,6 @@
     grid-template-columns: 150px 1.5fr 1fr;
 }
 .skill{
-    margin-top: 10rem;
     background-color: black;
     padding: 6rem 0;
     color: #fff;
@@ -174,7 +174,24 @@
 .grid-skill>li h4{
     margin-top: 2rem;
 }
-
+.popup-slider{
+    width: 100%;
+}
+.popup-slider h4{
+    margin-top: 2rem;
+    margin-bottom: 0.5rem;
+}
+.popup{
+    margin-top: 10rem;
+}
+.popup h3{
+    text-align: center;
+    margin-bottom: 1rem;
+}
+.popup h3+p{
+    text-align: center;
+    margin-bottom: 2rem;
+}
 @media(max-width:1500px){
     .grid-skill{
         display: grid;

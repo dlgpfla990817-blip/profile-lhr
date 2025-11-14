@@ -74,7 +74,11 @@
     margin-top: 2rem;
 }
 }
+.grid-skill>li{
 
+    padding: 1rem;
+
+}
 @media (max-width:320px){
         .about-title{
             font-size: 3.4rem;
