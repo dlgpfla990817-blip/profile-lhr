@@ -11,11 +11,14 @@
     --lnh120:1.2;
     --lnh150:1.5;
 }
-@media (min-width:1920px){
-    main{
+@media (min-width:2000px){
+    .common-frame{
         width: 1920px;
         margin: 0 auto;
     }
+}
+p{
+    line-height:var(--lnh150);
 }
 h1{
     font-size: var(--heading1);
