@@ -192,6 +192,27 @@
     text-align: center;
     margin-bottom: 2rem;
 }
+.poster h3{
+    text-align: center;
+    margin-bottom: 2rem;
+    margin-top: 10rem;
+}
+.poster h3+p{
+    text-align: center;
+    margin-bottom: 2rem;
+}
+.banner h3{
+    text-align: center;
+    margin-bottom: 2rem;
+    margin-top: 10rem;
+}
+.banner h3+p{
+    text-align: center;
+    margin-bottom: 2rem;
+}
+
+
+
 @media(max-width:1500px){
     .grid-skill{
         display: grid;
