@@ -245,12 +245,12 @@
 .header-smart{
     display: none;
 }
-.project-sticky-menu{
+.project-sticky-menu {
     display: flex;
-    gap:1rem;
+    gap: 1rem;
     position: sticky;
-    left:0;
-    top:4.5rem;
+    left: 0;
+    top: 1rem;
     justify-content: center;
 }
 .project-sticky-menu a{

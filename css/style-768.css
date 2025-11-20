@@ -80,6 +80,19 @@
     flex-direction: column;
 }
 
+
+.contact h2 {
+    font-size: 2rem;
+    line-height: 1;
+    text-transform: uppercase;
+    margin-bottom: 2rem;
+}
+
+.ct2 {
+    font-size: 1.2rem;
+    margin-bottom: 4rem;
+}
+
 .grid-skill>li{
 
     padding: 1rem;
