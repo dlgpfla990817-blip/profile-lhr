@@ -39,7 +39,8 @@ h4{
 
 html{
     font-size: 20px;
-    font-family: 'Pretendard',sans-serif
+    font-family: 'Pretendard',sans-serif;
+    scroll-behavior: smooth;
 }
 .common-frame{
     width: auto;
