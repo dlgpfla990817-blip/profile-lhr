@@ -167,11 +167,15 @@
     gap: 1rem;
     text-align: center;
 }
-.grid-skill>li{
-
+.grid-skill>li {
     padding: 2rem;
-
+    text-align: center;
 }
+.grid-skill>li img {
+    width: 50%;
+    aspect-ratio: 1/1;
+}
+
 .grid-skill>li h4 {
     margin-top: 2rem;
     margin-bottom: 1rem;
@@ -340,7 +344,7 @@ header.fadeout{
 @media(max-width:1500px){
     .grid-skill{
         display: grid;
-        grid-template-columns: repeat(4,minmax(50,1fr));
+        grid-template-columns: repeat(3,minmax(50px,1fr));
         gap: 1rem;
         text-align: left;
     }
